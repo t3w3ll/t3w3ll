@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @t3w3ll
 - 👀 I’m interested in ... Python Bash and Powershell
 - 🌱 I’m currently learning ... Network Automation using Python
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... not quite there yet, soon I hope.
 - 📫 How to reach me ...
 
 <!---
